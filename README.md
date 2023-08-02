@@ -1,5 +1,4 @@
 # Drum-kit
-Html CSS JavaScript - Drum kit 
 You can view the website from here: https://drum-kit-7709f.web.app/
 
 ## Topics
